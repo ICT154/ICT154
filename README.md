@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -114,7 +115,7 @@
   
 
 <br/>  
-[![@r4d3ng0z4ll's Holopin board](https://holopin.io/api/user/board?user=r4d3ng0z4ll)](https://holopin.io/@r4d3ng0z4ll)
+
 
 <div align="center">
             <a href="https://paypal.me/radengozal@gmail.com" target="_blank" style="display: inline-block;">
@@ -126,4 +127,4 @@
 <br />
 
 ----
-
+[![@r4d3ng0z4ll's Holopin board](https://holopin.io/api/user/board?user=r4d3ng0z4ll)](https://holopin.io/@r4d3ng0z4ll)
