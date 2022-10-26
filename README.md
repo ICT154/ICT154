@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Raden Gozal, a Junior full-time full-stack developer 👨‍💻 working On Site since 2020 🚀</div>  
+### <div align="center">I'm Raden Gozal, a Junior full-time full-stack developer 👨‍💻 working On Site since November 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Lintas Data Piranti](https://lintasdatapiranti.com)  
