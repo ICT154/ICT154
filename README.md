@@ -1,5 +1,6 @@
-# 💫 About Me:
-# Konnichiwa Minna-sann ! 👋<br><br>I'm Raden Gozal, a Junior Full-Stack Developer and an avid anime enthusiast! 👨‍💻 <br><br>### About Me:<br><br>- 🚀 Working On Site since November 2020 at IT Foot Print Solutions.<br>- 🌱 Currently diving into the worlds of Python, Flutter and how to be a Mainc Characther Anime Harem.<br>- ❓ Feel free to ask me anything related to my job or about anime! I'm all ears.<br>- ⚡ Fun Fact: I'm a tea aficionado, tea over coffee any day!<br><br>Let's code our way through the anime-inspired tech universe together! 🚀🌟<br>
+# 💫 Konnichiwa Minna-sann ! 👋
+I'm Gusti Raden Gozal Dorojengat, a Junior Full-Stack Developer and an avid anime enthusiast! 👨‍💻 <br>
+### About Me:<br><br> - 🚀 Working On Site since November 2020 at IT Foot Print Solutions.<br>- 🌱 Currently diving into the worlds of Python, Flutter and how to be a Main Characther Anime Harem.<br>- ❓ Feel free to ask me anything related to my job or about anime! I'm all ears.<br>- ⚡ Fun Fact: I'm a tea aficionado, tea over coffee any day!<br><br>Let's code our way through the anime-inspired tech universe together! 🚀🌟<br>
 
 
 ## 🌐 Socials:
