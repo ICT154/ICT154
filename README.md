@@ -1,23 +1,23 @@
+
 <div align="center">
+  
+ <img height="40%" width="40%" src ="https://media1.tenor.com/m/shXbhKNq0VgAAAAC/hiroi-kikuri-bocchi-the-rock.gif">
 
-![snake gif](https://github.com/ICT154/ICT154/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ICT154/ICT154/output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ICT154/ICT154/output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ICT154&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=ICT154&theme=radical&hide_border=false">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ICT154&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ICT154&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ICT154&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ICT154&theme=darcula&hide_border=true&background=FFFFFF00">
+  
   <br>
   <br>
-  <div id="badges">
+   <div id="badges">
       <img height="50%" width="auto" src="https://github-profile-trophy.vercel.app/?username=ICT154&theme=radical&no-frame=false&no-bg=true&margin-w=4">
   <br>
-      <a href="https://github.com/ICT15">
-    <img src="https://komarev.com/ghpvc/?username=ICT15&style=for-the-badge&color=orange" alt="Profile View Badge"/>
+  <div id="badges">
+    <a href="https://github.com/ICT154">
+    <img src="https://komarev.com/ghpvc/?username=ICT154&style=for-the-badge&color=green" alt="Profile View Badge"/>
   </a>
-  <a href="https://t.me/ICT15">
-    <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-   <a href="https://join.skype.com/invite/rI5pLf9YIvTA">
-    <img src="https://img.shields.io/badge/Skype-00AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
-   </a>
+  <br>
 </div>
 </div>
