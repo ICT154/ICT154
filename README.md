@@ -1,6 +1,6 @@
 <div align="center">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ICT15/ICT15/output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ICT15/ICT15/output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/ICT154/ICT154/blob/output/github-contribution-grid-snake.gif)
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ICT154&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
   <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=ICT154&theme=radical&hide_border=false">
