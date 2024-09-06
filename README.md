@@ -19,9 +19,9 @@
   ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/ICT154/ICT154/output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
 
   <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ICT154&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICT154&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ICT154&theme=darcula&hide_border=true&background=FFFFFF00">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ICT154&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ICT154&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ICT154&theme=darcula&hide_border=true&background=FFFFFF00">
 
   <!-- Animated GIF -->
   <img width="30%" src="https://media1.tenor.com/m/yw3i6mtrm7UAAAAC/dungeon-meshi-marcille-donato.gif">
