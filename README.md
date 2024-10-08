@@ -37,7 +37,7 @@
     <img src="https://komarev.com/ghpvc/?username=ICT154&style=for-the-badge&color=green" alt="Profile View Badge"/>
   </a>
 
-  <br><br>
+[![An image of @r4d3ng0z4ll's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/r4d3ng0z4ll)](https://holopin.io/@r4d3ng0z4ll)
   
   <!-- Sayonara Section -->
   <div align="center">
