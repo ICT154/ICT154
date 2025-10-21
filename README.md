@@ -1,15 +1,5 @@
 <div align="center">
 
-  <!-- Hero GIF -->
-  <img src="https://media1.tenor.com/m/shXbhKNq0VgAAAAC/hiroi-kikuri-bocchi-the-rock.gif" alt="Intro GIF" style="max-width: 50%; display: inline-block;">
-
-  <h2 style="margin-top: 15px;">✨ Konnichiwa, minna-san!~ (≧◡≦) ✨</h2>
-  <p><strong>Watashi wa ICT154 desu</strong>, your friendly neighborhood coder! 🧑‍💻</p>
-  <p>Code by day, anime by night — crafting kawaii apps & debugging like a senpai. 💻🔥</p>
-  <p>🌟 Star a repo, save a bug from reincarnation. Or risk an isekai-level glitch! 😜</p>
-
-  <blockquote><em>"Keep calm and code with a smile, nyan~!"</em> (＾• ω •＾)</blockquote>
-
   <br>
 
   <!-- GitHub Snake Contribution -->
@@ -46,8 +36,7 @@
   <br><br>
 
   <!-- Outro -->
-  <h2>Sayonara & Arigatou! (✿◠‿◠)</h2>
+  <h2>Sayonara ~</h2>
   <img width="25%" src="https://media1.tenor.com/m/RRt_U0xAzysAAAAC/yor-forger-yor-dance.gif" alt="Yor Forger Dancing GIF">
-  <p>Thanks for stopping by! See you in the next episode~ 💖</p>
 
 </div>
