@@ -21,13 +21,7 @@
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ICT154&show_icons=true&theme=darcula&hide=issues,contribs&hide_border=true&bg_color=00000000" alt="GitHub Stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICT154&layout=compact&theme=darcula&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ICT154&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak">
   </div>
-
-  <br><br>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ICT154&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Profile Trophy">
 
   <br><br>
 
