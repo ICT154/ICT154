@@ -19,8 +19,8 @@
 
   <!-- GitHub Stats -->
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ICT154&show_icons=true&theme=darcula&hide=issues,contribs&hide_border=true&bg_color=00000000" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICT154&layout=compact&theme=darcula&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=ICT154&theme=dark&hide_border=false" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ICT154&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
   </div>
 
   <br><br>
